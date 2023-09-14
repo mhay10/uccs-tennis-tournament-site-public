@@ -15,3 +15,5 @@ Pool Play:
 Bracket Play:  
 ![image](https://github.com/mhay10/uccs-tennis-tournament-site-public/assets/57298046/84d839da-e575-4ce4-8b44-db101d5d5f45)
 
+Admin Stuff:  
+![image](https://github.com/mhay10/uccs-tennis-tournament-site-public/assets/57298046/c0867ee3-18f1-4e8e-83f8-12d2dbee0036)
